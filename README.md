@@ -13,7 +13,7 @@ I'm a seasoned software developer, CTO, consultant, and trainer with a decade of
 
 - **Languages**: Rust, JavaScript, Python, and more.
 - **Frameworks**: Actix, Tailwind CSS, HTMX and framework agnostic.
-- **DevOps**: CI/CD pipelines, TDD, pair-programing, collaborative culture leader.
+- **DevOps**: CI/CD pipelines, TDD, Pair/Mob-programing, [Westrum Org Culture](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture).
 
 ## Connect with Me 🌐
 
