@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a seasoned software developer, CTO, consultant, and trainer with a decade of experience in the tech industry. I specialize in building and scaling successful software development teams and products. I'm passionate about elevating the craft of software development and have mentored hundreds of developers throughout my career.
+I'm a seasoned software developer, consultant, and trainer with a decade of experience in the tech industry. I specialize in building and scaling successful software development teams and products. I'm passionate about elevating the craft of software development and have mentored hundreds of developers throughout my career.
 
 ## What I'm Working On 🛠️
 
