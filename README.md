@@ -6,7 +6,6 @@ I'm a seasoned software developer, consultant, and trainer with a decade of expe
 
 ## What I'm Working On 🛠️
 
-- **Moon Phase Demo**: A web development project showcasing the power of modern web technologies like HTMX and Rust. [Check it out!](https://github.com/donedgardo/moon_phase_demo)
 - **Software Team Coaching**: Founded and leading a software agency in Puerto Rico, focusing on improving the industry's agility and quality of work.
 - **Game Development**: Exploring TDD with GameDev. Working on my own ray tracing engine, some graphics and game dev on the side. [Blog Post!](https://edgardocarreras.com/blog/tdd-in-rust-game-engine-bevy)
 
